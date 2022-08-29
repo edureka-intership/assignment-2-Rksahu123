@@ -1,8 +1,8 @@
-#Assignee Name
+# Assignee Name
 Ramkrushna Sahu
-#Project Name
+# Project Name
 Static Homepage page of the product.
-#Technologies Used
+# Technologies Used
 HTML, CSS & Bootstrap
-#Application Used
+# Application Used
 Visual Studio Code
